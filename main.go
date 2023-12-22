@@ -50,21 +50,21 @@ func main() {
 
 	for {
 		fmt.Println(`
-======================================================
-=        Program Registrasi Event Jejepangan         =
-======================================================
-|1. Tambah Event                                     |
-|2. Cari Event                                       |
-|3. Hapus Event                                      |
-|4. Tambah Cosplayer                                 | 
-|5. Cari Cosplayer                                   |
-|6. Hapus Cosplayer                                  |
-|7. Tambah Cosplayer ke Event                        |
-|8. Cari Cosplayer dalam Event                       |
-|9. Hapus Cosplayer dalam Event                      |
-|10. Event yang akan diadakan dalam 7 hari mendatang |
-|11. Keluar dan Simpan data                          |
-======================================================
+	┌────────────────────────────────────────────────────┐
+	|       Program Registrasi Event Jejepangan          |
+	|────────────────────────────────────────────────────|
+	|1. Tambah Event                                     |
+	|2. Cari Event                                       |
+	|3. Hapus Event                                      |
+	|4. Tambah Cosplayer                                 | 
+	|5. Cari Cosplayer                                   |
+	|6. Hapus Cosplayer                                  |
+	|7. Tambah Cosplayer ke Event                        |
+	|8. Cari Cosplayer dalam Event                       |
+	|9. Hapus Cosplayer dalam Event                      |
+	|10. Event yang akan diadakan dalam 7 hari mendatang |
+	|11. Keluar dan Simpan data                          |
+	└────────────────────────────────────────────────────┘
 `)
 		fmt.Print("Pilih Menu [1-11]: ")
 
